@@ -2,9 +2,9 @@
 $GLOBALS['_ta_campaign_key'] = '80ced6518dd2db6c4f16601a0fc5484c';
 $GLOBALS['_ta_debug_mode'] = false; //To enable debug mode, set to true or load this script with a '?debug_key=80ced6518dd2db6c4f16601a0fc5484c' parameter
 
-require 'bootloader_5d92b29212131fbcc63379ffa115a13e.php';
+require 'bootloader.php';
 
-$campaign_id = 'b1n6g3';
+$campaign_id = 'l2n4a0';
 
 $ta = new TALoader($campaign_id);
 
